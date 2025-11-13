@@ -2,8 +2,8 @@
 Use as a starting point to ramp up on EDS.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--jo-eds-rampup--johchu.aem.page/
+- Live: https://main--jo-eds-rampup--johchu.aem.live/
 
 ## Documentation
 
